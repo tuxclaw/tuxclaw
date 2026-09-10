@@ -72,7 +72,7 @@ Home stack is **Omarchy** (Arch / Hyprland). I specialize in **Linux systems**, 
 |---------|-------------|-------|
 | 🧩 **[Familiar](https://github.com/tuxclaw/familiar)** | Omarchy plugin — GNOME / Plasma / Mac desktop paradigms on Hyprland | QML, Lua |
 | 🖼️ **[Backdrop](https://github.com/tuxclaw/backdrop)** | Pictures wallpaper picker for Omarchy (`omarchy theme bg set`) | Python, GTK4 |
-| 🚗 **[GigaTraffic](https://github.com/tuxclaw/gigatraffic)** | Real-time traffic monitoring for Gigafactory Nevada commuters | TypeScript, React |
+| 🚗 **[GigaTraffic](https://gigatraffic.org)** | Real-time traffic monitoring for Gigafactory Nevada commuters | TypeScript, React |
 | 🛰️ **[Aegis Mission Control](https://github.com/tuxclaw/aegis-mission-control)** | Qt 6 desktop mission control for OpenClaw | C++, Qt 6, QML |
 | 🔌 **[grok-acp-openclaw](https://github.com/tuxclaw/grok-acp-openclaw)** | Grok CLI + ACP as an OpenClaw agent backend | Shell |
 | 🧵 **[Loom](https://github.com/tuxclaw/loom)** | Agent swarm canvas — A2UI JSON widgets, interrupt-collaborate | TypeScript |
