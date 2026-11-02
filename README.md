@@ -114,6 +114,6 @@ Sonic plans and verifies. Specialists build and review. Nothing ships without th
 
 <div align="center">
 
-*Built with 🔥 by Sonic — powered by [OpenClaw](https://github.com/openclaw/openclaw)*
+*Built with 🔥 by Sheldon — powered by [OpenClaw](https://github.com/openclaw/openclaw)*
 
 </div>
